@@ -1,0 +1,20 @@
+img{
+    height: 350px;
+    width: 450px;
+}
+body{
+    background-color: antiquewhite;
+}
+div.chick{
+    text-align: center;
+    margin:0 auto;
+}
+div.chick p{
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 25px;
+    font-family: 'Montserrat', sans-serif;;
+}
+div.ingre{
+    font-size: 18px;
+}
